@@ -1,0 +1,18 @@
+{
+  "globals": {
+    "window": "readonly"
+  },
+  "env": {
+    "browser": true
+  },
+  "ignorePatterns": [
+    "src/external-builds/**/*",
+    "dist/**/*",
+    "www/**/*",
+    "loader/**/*",
+    "docs/**/*"
+  ],
+  "overrides": [
+    {"files": "**/*.config.js", "parserOptions": {"sourceType": "module"}}
+  ]
+}

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>quantic_ShowingResultsOf</fullName>
+        <value>Result {{0}} of {{1}}</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: Result 0-10 of 123,456</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOf_plural</fullName>
+        <value>Results {{0}} of {{1}}</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: Results 0-10 of 123,456</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOf_zero</fullName>
+        <value>No results</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Results</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOfWithQuery</fullName>
+        <value>Result {{0}} of {{1}} for {{2}}</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: Result 0-10 of 123,456 for potato</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOfWithQuery_plural</fullName>
+        <value>Results {{0}} of {{1}} for {{2}}</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: Results 0-10 of 123,456 for potato</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOfWithQuery_zero</fullName>
+        <value>No results for {{2}}</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: No results for potato</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_InSeconds</fullName>
+        <value>in {{0}} second</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: in 1 second</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_InSeconds_plural</fullName>
+        <value>in {{0}} seconds</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: in 2.3 seconds</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_InSeconds_zero</fullName>
+        <value>in {{0}} seconds</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: in 0 seconds</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NoResults</fullName>
+        <value>No Results</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Results</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NoResultsFor</fullName>
+        <value>No Results for {{0}}</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Results for potato</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_Clear</fullName>
+        <value>Clear</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Clear</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowMore</fullName>
+        <value>Show more</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Show more</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowLess</fullName>
+        <value>Show less</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Show less</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowMoreFacetValues</fullName>
+        <value>Show more values for the {{0}} facet</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Show more values for the potato facet</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowLessFacetValues</fullName>
+        <value>Show less values for the {{0}} facet</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Show less values for the potato facet</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NMore</fullName>
+        <value>{{0}} more...</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: 3 more...</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ClearAllFilters</fullName>
+        <value>Clear All Filters</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Clear All Filters</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_Previous</fullName>
+        <value>Previous</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Previous</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_Next</fullName>
+        <value>Next</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Next</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_Search</fullName>
+        <value>Search</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Search</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_DidYouMean</fullName>
+        <value>Did you mean</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Did you mean</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_QueryCorrectedTo</fullName>
+        <value>Query was automatically corrected to {{0}}</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Query was automatically corrected to potato</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_SortBy</fullName>
+        <value>Sort by</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Sort by</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_Relevancy</fullName>
+        <value>Relevancy</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Relevancy</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_Newest</fullName>
+        <value>Newest</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Newest</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_Oldest</fullName>
+        <value>Oldest</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Oldest</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_CoveoOnlineHelpLink</fullName>
+        <value>Coveo Online Help</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Coveo Online Help</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_MoreInformation</fullName>
+        <value>More information</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>More Information</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_CheckForMore</fullName>
+        <value>Check the {{0}} for similar errors or {{1}} for more information.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Check the community for similar errors or contact Coveo for more information.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_Community</fullName>
+        <value>community</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>community</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_ContactCoveoSupportTeam</fullName>
+        <value>contact the Coveo Support team.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contact the Coveo Support team.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_GoBack</fullName>
+        <value>Go back</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Go back</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_DisconnectedTitle</fullName>
+        <value>Could not connect.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Couldn't connect.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_DisconnectedDesc</fullName>
+        <value>Your query couldn't be sent. Verify your internet connection.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your query couldn't be sent. Verify your internet connection.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NoEndpointsTitle</fullName>
+        <value>The Coveo organization has no registered endpoints.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>The Coveo organization has no registered endpoints.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NoEndpointsDesc</fullName>
+        <value>You will need to add sources in your index, or wait for the created sources to finish indexing.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add sources in your index, or wait for the created sources to finish indexing.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_InvalidTokenTitle</fullName>
+        <value>The Coveo organization cannot be accessed.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>The Coveo organization cannot be accessed.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_InvalidTokenDesc</fullName>
+        <value>Invalid token.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invalid token.</shortDescription>
+    </labels>
+     <labels>
+        <fullName>quantic_OrganizationIsPausedTitle</fullName>
+        <value>Your organization is resuming and will be available shortly.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your organization is resuming and will be available shortly.</shortDescription>
+    </labels>
+     <labels>
+        <fullName>quantic_OrganizationIsPausedDesc</fullName>
+        <value>Your Coveo organization is paused due to inactivity and search is currently unavailable.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your Coveo organization is paused.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_GenericErrorTitle</fullName>
+        <value>Something went wrong.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Something went wrong.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_GenericErrorDesc</fullName>
+        <value>If the problem persists, contact the administrator.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>If the problem persists, contact the administrator.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_CoveoDocsLink</fullName>
+        <value>https://docs.coveo.com/</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>https://docs.coveo.com/</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_OrganisationPausedLink</fullName>
+        <value>https://docs.coveo.com/l6af0467</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>https://docs.coveo.com/l6af0467</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NoResultsTitle</fullName>
+        <value>No results</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No results</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NoResultsForTitle</fullName>
+        <value>We couldn’t find anything for {{0}}</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>We couldn’t find anything for potato</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NoResultsWithoutFilters</fullName>
+        <value>You may want to try using different keywords, or checking for spelling mistakes.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>You may want to try using different keywords, or checking for spelling mistakes.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NoResultsWithFilters</fullName>
+        <value>You may want to try using different keywords, checking for spelling mistakes or select fewer filters.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Check for spelling mistakes or select fewer filters.</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_UndoLastAction</fullName>
+        <value>Undo last action</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Undo last action</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_MoreMatchesFor</fullName>
+        <value>More matches for '{{0}}'</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>More matches for potato</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quantic_NoMatchesFor</fullName>
+        <value>No matches found for '{{0}}'</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No matches found for potato</shortDescription>
+    </labels>
+</CustomLabels>

@@ -1,0 +1,34 @@
+atomic-result-printable-uri li {
+  display: inline;
+}
+
+atomic-result-printable-uri li a {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+atomic-result-printable-uri li:last-child::after {
+  content: none;
+}
+
+.result-printable-uri-separator {
+  display: inline-block;
+  margin: 0 0.5rem;
+  vertical-align: middle;
+  width: 0.75rem;
+  height: 0.75rem;
+}
+
+atomic-result-printable-uri a,
+atomic-result-printable-uri button {
+  color: var(--atomic-primary);
+}
+
+atomic-result-printable-uri a:hover,
+atomic-result-printable-uri button:hover {
+  text-decoration: underline;
+}
+
+atomic-result-printable-uri a:visited {
+  color: var(--atomic-on-background);
+}
